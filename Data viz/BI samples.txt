@@ -1,0 +1,9 @@
+Links to online BI samples:
+
+Google Looker Studio:
+property sales
+https://datastudio.google.com/s/ss3apmEFbL0
+
+Tableau:
+Taxi company data
+https://public.tableau.com/views/ProjectChicago/Findinggrowthfortaxicompanieswithe-payment?:language=en-US&:display_count=n&:origin=viz_share_link
