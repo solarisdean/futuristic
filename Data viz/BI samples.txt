@@ -1,9 +1,13 @@
 Links to online BI samples:
 
 Google Looker Studio:
-property sales
+property sales data
 https://datastudio.google.com/s/ss3apmEFbL0
 
 Tableau:
 Taxi company data
 https://public.tableau.com/views/ProjectChicago/Findinggrowthfortaxicompanieswithe-payment?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Power BI:
+Olist e-commerce data
+https://1drv.ms/u/s!AuJrVotbBvV4gbZ-X_iDd8AXXNRPYg?e=QevekG
